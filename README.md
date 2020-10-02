@@ -1,4 +1,4 @@
-# dummy_hacktober
+# skt-Application
 
 A new Flutter project.
 
